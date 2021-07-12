@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "321054592718d36d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95c9a9b7f8e762b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d9b2366701e7f86",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea80cb99935fe48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed4b57fdc9fc3df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b8554209a30fe0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257
+  },
+  "right": {
+    "id": "98fbea0f15473c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "962b0a38e25ec410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ab6a6bb8da0d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a95c9a9b7f8e762b",
+  "lastOpenFiles": [
+    "EDH/Vannifars Circus/CMC/3/Pemmin's Aura.md",
+    "EDH/Vannifars Circus/CMC/2/Lightning Greaves.md",
+    "EDH/Vannifars Circus/CMC/1/Wirewood Symbiote.md",
+    "EDH/Vannifars Circus/CMC/6/Deadeye Navigator.md",
+    "EDH/Vannifars Circus/CMC/6/Experiment Kraj.md",
+    "EDH/Vannifars Circus/CMC/5/Willbreaker.md",
+    "EDH/Vannifars Circus/CMC/5/Teferi, Mage of Zhalfir.md",
+    "EDH/Vannifars Circus/CMC/5/Seedborn Muse.md",
+    "EDH/Vannifars Circus/CMC/5/Murkfield Liege.md",
+    "EDH/Vannifars Circus/CMC/5/Muldrifter.md"
+  ]
+}
