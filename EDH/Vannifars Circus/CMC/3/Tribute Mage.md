@@ -3,6 +3,6 @@ CMC: #CMC3
 Devotion: #U
 Types: #Creature
 Subtypes: #Human #Wizard
-Attributes: #ETB #ArtifactFixing 
+Attributes: #ETB #ArtifactFixing #DrawSource 
 
 CMC 2 Artifacts only

@@ -1,0 +1,1 @@
+MTG DB: [Bulk Data Files · API Documentation · Scryfall Magic: The Gathering Search](https://scryfall.com/docs/api/bulk-data)

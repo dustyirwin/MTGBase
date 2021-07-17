@@ -3,4 +3,4 @@ CMC: #CMC0
 
 Types: #Land
 Subtypes: 
-Attributes: #GManaSource #UManaSource
+Attributes: #GManaSource #UManaSource #FastLand 
